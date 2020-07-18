@@ -149,6 +149,8 @@ public class Main {
          *
          * Tarea 2: Pasar el diagrama o pseudocódigo a sintaxis de Java.
          *
+         * Tarea Opcional: Investigar los atributos de la clase String e investigar donde puedo buscar ayuda de Java.
+         *
          * */
 
     }
